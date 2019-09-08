@@ -12,4 +12,4 @@ Builduing interactive chart exploring the Belly button biodiversity data. (sourc
 * Flask
 * Sqlite
 
-<img src="/marazap90/Belly_button/Images/screencapture-127-0-0-1-5000-2019-09-08-18_12_03.png" width="700" height="300" style="max-width:100%;">
+<img src="/marazap90/Belly_button/raw/master/Images/screencapture-127-0-0-1-5000-2019-09-08-18_12_03.png" width="700" height="300" style="max-width:100%;">
