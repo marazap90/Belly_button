@@ -41,7 +41,7 @@ function buildCharts(sample) {
             otu_labels = sampleData.otu_labels;
             sample_values = sampleData.sample_values;
         
-        const bubble = [{
+        const bubble_data = [{
             x: otu_ids,
             y: sample_values,
             mode: 'markers',
